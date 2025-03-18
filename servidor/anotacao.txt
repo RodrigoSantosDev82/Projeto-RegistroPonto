@@ -1,0 +1,3 @@
+usuario: rodrigo
+email: clp.freelance@gmail.com
+senha: 123456
