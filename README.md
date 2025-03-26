@@ -12,7 +12,8 @@ Backend: Django, Django REST Framework, OpenCV.
 App Mobile: Kivy, KivyMD.
 
 Linguagem: Python 3.9.
-Pré-requisitos:
+
+# Pré-requisitos:
 
 Python 3.9.
 
